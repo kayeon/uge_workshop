@@ -1,5 +1,7 @@
 #IAmABelieber
 
+# made a change
+
 # Change to home directory
 cd ~
 
