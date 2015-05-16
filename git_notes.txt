@@ -7,3 +7,7 @@
 #
 # learned git mv about how to rename a file
 #
+# used | for the pager call
+# ls - t | less
+
+#
