@@ -1,0 +1,1550 @@
+#IAmABelieber
+
+# Change to home directory
+cd ~
+
+# looking up manual for less
+man less
+
+# pipe output of history to the pager less
+history | less
+
+# pipe output of history to the unix command tail in reverse
+history | tail -r
+
+# looking at history of commands in terminal
+history
+
+# locating where we are
+pwd
+
+# listing files in the current folder
+ls
+
+# change directory into /Users
+cd /Users/
+
+# listing parent
+ls ..
+
+# listing testing with ...
+ls ...
+
+# change directory ...
+cd ...
+
+# change to directory net
+cd net
+
+# change to directory temp
+cd temp
+
+...
+ls ~
+cd /
+cd .
+cd
+cd ../..
+cd bin
+cd usr
+cd user
+cd temp/stuff
+../
+cd ..
+cd stuff
+cd ranch_orm
+cd myProjects
+farmers
+ls -l
+cd myProjects/
+cd ~
+man ls
+man -d
+ls man
+ls -lrt
+ls -r
+ls -lt
+ls -t
+curl -fsSL http://git.io/7UHtNA | sh
+curl -fsSL http://git.io/QxUaOQ | sh
+git config user.email
+git config user.name
+git config --global user.email 'kayeon@gmail.com'
+git config --global user.email 'katie kim'
+git --version
+brew install git
+brew unlink git
+brew inlink git
+echo $PATH
+subl /etc/paths
+echo $path
+echo $EDITOR
+echo
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+subl .
+brew info fish
+brew in
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+brew update
+uname
+clear
+K
+brew install node
+node
+jsc
+irb
+java
+1 + 2
+cd~
+rake routes
+rails version
+rake -T
+rake db:migrate
+rails generate scaffold topic title:string description:text
+rails server
+git status
+git commit -m "Added all the things"
+git add .
+ls -a
+git init
+cd suggestotron/
+rails new suggestotron
+cd apps
+mkdir apps
+mkdir railsbridge/
+ruby farmers.rb
+subl farmers.rb
+cat farmers.rb
+cd myProjects/farmers/
+ruby ./farmers.rb
+mv farmers.rb myProjects/farmers/
+cd farmers
+cd farmer
+mv farmers.csv farmers
+mkdir farmers
+mv ADA farmers.csv
+mv farmers-markets.csv ADA
+mv ~/Downloads/farmers-markets-0d51def2d3decd53415dc3b91b0253e8.csv farmers-markets.csv
+mv ~/Documents/Although\ I\ was\ under\ the\ impression\ that\ voice\ of\ the\ poem\ was\ the\ poet\ Eric\ Gansworth\ or\ a\ man\ whether\ it’s\ a\ son.docx
+random [23]
+random
+random [SEED]
+man
+gem install rails
+sqlite3 --version
+sqlite3 -v
+ruby -v
+ruby --version
+ruby - v
+ruby poe.rb
+vim poe.rb
+git pull
+cd poe-game/
+subl plx.rb
+cd parallax
+subl sprite.rb
+cd sprite/
+ruby sprite.rb
+subl hello_world.rb
+ruby hello_world.rb
+cd hello_world/
+cd writing_games_2014/
+git clone git@github.com:blowmage/writing_games_2014.git
+jk
+vim ~/.vimrc
+poe-game/
+git clone git@github.com:blowmage/rubyhop.git
+git clone git@github.com:bschlenk/poe-game.git
+cd kayeon/myProjects/
+cd myprojects
+../../
+rm -rf poe-game/
+rm-rf poe-game/
+git git@github.com:bschlenk/poe-game.git
+subl rubyhop
+rubyhop.rb
+rubyhop
+git clone git@github.com:kayeon/poe-game.git
+myProjects/
+ruby Main.rb
+gem install gosu
+ruby main.rb
+brew install sdl2
+brew install libvorbis
+bundle exec rake db:migrate
+bundle install --path vendor/bundle
+git c 'improve the horses migrations and add the horse class'
+git ll
+git st
+touch lib/horse.rb
+ll
+la
+mkdir lib
+rm db/migrate/001_create_horses
+touch db/migrate/001_create_horses.rb
+touch db/migrate/001_create_horses
+tree
+brew install tree
+mkdir -p db/migrate
+mkdir db/migrate
+git c 'Add Rakefile'
+touch Rakefile
+git c 'initial commit'
+touch .gitignore
+cd bundle
+touch Gemfile
+cd ranch_orm/
+mkdir ranch_orm
+which sqlite3
+brew install sqlite
+df -h
+df
+du
+ruby looptest.rb
+ruby looptest
+subl looptest
+cd Projects/
+say "i love poe"
+cd .ssh
+python
+which python
+man history
+rm historyList
+subl historylist
+history > historyList
+history | grep class3
+history | grep rubocop
+ruby Desktop/brian.rb
+Desktop/brian.rb
+subl Desktop/brian.rb
+which ruby
+chmod +x Desktop/brian.rb
+cd ~/pwd
+ruby brian.rb
+bash --login
+bash --lo
+gem list
+rvm -v
+exit
+ruby
+say -v Deranged Can we eat warm pizza
+say -v '?'
+say -v Ralph Poe is a mellow dog. He likes cats named moe.
+ls -la
+vim ~/.bashrc
+ls -la ~
+cat ~/.profile
+python helloworld.py
+ls /bin
+bash
+man say
+say -v
+say -v ?
+say -v '?
+'
+sya -v ?
+say '?'
+say ?
+say -?
+say let\'s eat a pizza
+say keyeon kim has a dog named poe
+say keyeon kim
+who
+bin/rubocop lib/class7/
+bin/rspec lib/class7/
+git push
+git commit -m 'submitted class 7.5  exercises'
+bin/rubocop lib/class7/exercise5.rb
+bin/rspec lib/class7/exercise5.rb
+bin/rspec lib/class7/exercise5-original.rb
+bin/rubocop lib/class7/exercise5-original.rb
+git pull upstream master
+ruby lib/class7/exercise5-original.rb
+ruby lib/class7/exercise5-test.rb
+bin/rubocop lib/class7/exercise5-test.rb
+ruby lib/class7/exercise5.rb
+ruby lib/class7/exercise1.rb
+bin/rspec lib/class7/exercise1.rb
+bin/rubocop lib/class7/exercise1.rb
+bin/rspec lib/class7/
+bin/rspec
+sea-c21-ruby/
+Projects/
+git commit -m 'submitted class 6.6  exercises'
+bin/rspec lib/class6/exercise6.rb
+bin/rubocop lib/class6/exercise6.rb
+git commit -m 'submitted class 8 exercises'
+bin/rspec lib/class6/
+bin/rubocop lib/class6/
+bin/rubocop lib/class7/
+bin/rspec lib/class8/
+bin/rubocop lib/class8/
+ruby scratchpad.rb
+ruby lib/class8/exercise7.rb
+ruby lib/class8/exercise6.rb 5 boing
+ruby lib/class8/exercise6.rb
+ruby lib/class8/exercise5.rb 24
+ruby lib/class8/exercise5.rb 12
+ruby lib/class8/exercise5.rb 3
+ruby lib/class8/exercise4.rb
+ruby lib/class8/exercise3.rb
+ruby lib/class8/exercise2.rb
+bin/rspec lib/class8/exercise1.rb
+bin/rubocop lib/class8/exercise1.rb
+ruby lib/class8/exercise1.rb
+ruby scratch.rb
+bin/rubocop lib/class7
+bin/rspec lib/class7
+projects/
+ruby lib/class7/exercise2.rb
+ruby lib/class5/exercise2.rb
+git commit -m 'submitted class 7 classes'
+bin/rubocop lib/class7/exercise4.rb
+bin/rubocop lib/class7/exercise3.rb
+bin/rubocop lib/class7/exercise2.rb
+ruby lib/class5/exercise6.rb
+sea
+bin/rubocop lib/class
+bin/rspec lib/class6
+bin/rubocop lib/class6
+bin/rubocop lib/class5
+bin/rspec lib/class5
+ruby lib/class5/exercise5.rb
+ruby lib/class5/exercise4.rb
+ruby lib/class5/exercise3.rb
+ruby lib/class5/exercise1.rb
+git commit -m 'fixed class 5 classes'
+bin/rubocop lib/class4
+bin/rubocop lib/class3
+bin/rubocop lib/class2
+bin/rubocop lib/class1
+bin/rspec lib/class7/exercise2.rb
+bin/rspec lib/class7/exercise4.rb
+ruby lib/class7/exercise4.rb
+bin/rubocop lib/class7/exercise3=4.rb
+ruby lib/class7/exercise3.rb
+bin/rspec lib/class7/exercise3.rb
+bin/rubocop lib/class5/
+bin/rubocop lib/clas5/
+git commit -m 'fixed class 4 exercies'
+bin/rspec lib/class4
+bin/rubocop lib/class4/
+bin/rubocop lib/class4/exercise5.rb
+bin/rubocop lib/class4/exercise4.rb
+bin/rspec spec/class4/exercise5_spec.rb
+bin/rspec spec/class4/exercise4_spec.rb
+ruby lib/class4/exercise4.rb
+bin/rspec spec/class4/exercise3_spec.rb
+bin/rubocop lib/class4/exercise3.rb
+bin/rspec spec/class4/exercise2_spec.rb
+bin/rubocop lib/class4/exercise2.rb
+git commit -m 'fixed class 3 exercies'
+bin/rubocop lib/class4/exercise1.rb
+bin/rspec spec/class4/exercise1_spec.rb
+ruby lib/class4/exercise1.rb
+bin/rspec spec/class4/exercise5_spec1.rb
+bin/rspec spec/class3
+bin/rspec spec/class3/exercise3_spec.rb
+bin/rubocop lib/class3/exercise3.rb
+bin/rubocop
+bin/rspec spec/class3/exercise2_spec.rb
+bin/rubocop lib/class3/exercise2.rb
+bin/rspec spec/class3/exercise1_spec.rb
+bin/rubocop lib/class3/exercise1.rb
+ruby lib/class3/exercise1.rb
+git commit -m 'fix class 2 exercies'
+bin/rspec spec/class2
+bin/rubocop lib/class2/exercise7.rb
+bin/rubocop lib/class2/exercise6.rb
+bin/rubocop lib/class2/exercise5.rb
+bin/rubocop lib/class2/exercise4.rb
+bin/
+bin/rspec spec/class7/exercise2_spec.rb
+˚
+bin/rspec spec/class7/exercise1_spec.rb
+ruby lib/class6/exercise7.rb url
+ruby lib/class6/exercise7.rb age
+ruby lib/class6/exercise3.rb
+ruby lib/class6/exercise7.rb name
+bin/rubocop lib/class6/exercise7.rb
+bin/rspec spec/class6/exercise7_spec.rb
+ruby lib/class6/exercise4.rb
+git commit -m 'homework 6.6-7'
+ruby lib/class6/exercise7.rb pet
+ruby lib/class6/exercise7.rb
+bin/rspec spec/class6/exercise6_spec.rb
+ruby lib/class6/exercise6.rb parents 'Paul Mccartney'
+ruby lib/class6/exercise6.rb friend 'Paul Mccartney'
+ruby lib/class6/exercise6.rb name 'John Lennon'
+ruby lib/class6/exercise6.rb name 'stephanie!'
+ruby lib/class6/exercise6.rb name 'Katie kim'
+ruby lib/class6/exercise6.rb name 'Katie'
+ruby lib/class6/exercise6.rb name 'Katie Kim'
+ruby lib/class6/exercise6.rb name Katie Kim
+ruby lib/class6/exercise6.rb name John McCarthy
+ruby lib/class6/exercise5.rb name John McCarthy
+ruby lib/class6/exercise5.rb name applebee
+ruby lib/class6/exercise5.rb name
+ruby lib/class6/exercise6.rb friend 'paul mccartney'
+ruby lib/class6/exercise6.rb parent 'paul mccartney'
+ruby lib/class6/exercise6.rb age 'paul mccartney'
+ruby lib/class6/exercise6.rb name 'paul mccartney'
+ruby lib/class6/exercise6.rb friend  'paul mccartney'
+ruby lib/class6/exercise6.rb name paul mccartney
+ruby lib/class6/exercise6.rb name
+git commit -m 'homework 6.1-5'
+bin/rspec spec/class6/exercise5_spec.rb
+bin/rubocop lib/class6/exercise5.rb
+bin/rspec spec/class6/exercise4_spec.rb
+bin/rubocop lib/class6/exercise4.rb
+ruby lib/class6/exercise4.rb name
+bin/rubocop lib/class6/exercise3.rb
+bin/rspec spec/class6/exercise3_spec.rb
+ruby lib/class6/exercise3.rb name
+bin/rubocop lib/class6/exercise2.rb
+bin/rspec spec/class6/exercise2_spec.rb
+ruby lib/class6/exercise2.rb name
+bin/rspec spec/class6/exercise1_spec.rb
+bin/rubocop lib/class6/exercise1.rb
+ruby lib/class6/exercise1.rb name
+ruby lib/class6/exercise5.rb
+ruby lib/class6/exercise5.rb pet
+ruby lib/class6/exercise5.rb age
+ruby lib/class6/exercise5.rb names
+ruby lib/class6/exercise5.rb coco
+ruby lib/class6/exercise5.rb pets
+ruby lib/class6/exercise5.rb
+proj
+ruby lib/class6/exercise4.rb
+ruby lib/class6/exercise3.rb
+ruby lib/class6/exercise2.rb
+ruby lib/class6/exercise1.rb
+person = ['john', 40]
+git commit -m 'homework 5.1-5'
+git commit -m 'commit homework  4.4 + 4.5'
+bin/rubocop lib/class5/exercise5.rb
+bin/rspec spec/class5/exercise5_spec.rb
+ruby lib/class5/exercise5.rb 5
+ruby lib/class5/exercise5.rb
+bin/rspec spec/class5/exercise4_spec.rb
+bin/rubocop lib/class5/exercise4.rb
+ruby lib/class5/exercise4.rb
+ruby lib/class5/exercise3.rb
+bin/rubocop lib/class5/exercise3.rb
+bin/rspec spec/class5/exercise3_spec.rb
+bin/rspec spec/class5/exercise2_spec.rb
+bin/rubocop lib/class5/exercise2.rb
+ruby lib/class5/exercise2.rb
+bin/rspec spec/class5/exercise1_spec.rb
+bin/rubocop lib/class5/exercise1.rb
+ruby lib/class5/exercise1.rb
+bin/rubocop lib/class5/KimEx.rb
+ruby lib/class5/KimEx.rb
+lib/class5/exercise3.rb
+Projects/sea-c21-ruby/
+ruby lib/class5/exercise5.rb 2
+ruby lib/class5/exercise5.rb 1
+ruby lib/class5/exercise5.rb 0
+ruby lib/class5/exercise5.rb 3
+ruby class5/exercise2.rb
+cd lib
+cd ../../
+cd images/fakeCardReader/
+cd ../
+cd pictureInbox/
+cd states/
+cd sea-c21-ruby/
+cd images
+endp records.to_yamlirb
+def records
+require 'yaml'
+ruby lib/class5/exercise1.rb 578
+lib/class5/exercise2.rb
+lib/class5/exercise1.rb
+lib/class4/exercise5.rb
+lib/class4/exercise4.rb
+lib/class4/exercies5.rb
+which ruby
+/usr/bin/env ruby
+hirb
+git la
+git log
+git ll > temp2
+git la > temp
+git help
+git -help
+git -g
+git -a
+git bin/rubocop
+git add
+ruby lib/class4/exercise5.rb 578
+ruby lib/class4/exercise5.rb 889
+ruby lib/class4/exercise5.rb 999
+ruby lib/class4/exercise4.rb 999
+ruby lib/class4/exercise4.rb 1000
+ruby lib/class4/exercise4.rb 153
+ruby lib/class4/exercise4.rb 100
+ruby lib/class4/exercise4.rb 300
+ruby lib/class4/exercise4.rb 30000
+ruby lib/class4/exercise4.rb 135
+git commit -m 'commit class 4/exercises 1 - 3'
+git add lib/class4/exercise3.rb
+git add lib/class4/exercise2.rb
+git add lib/class4/exercise1.rb
+git add lib/class3/exercise3.rb
+git add lib/class3/exercise2.rb
+git add lib/class3/exercise1.rb
+ruby lib/class4/exercise3.rb
+ruby lib/class4/exercise2.rb
+git commit -m 'commit stuff'
+git add lib/class3/exercise4.rb
+git add lib/scratch.rb
+git add scratch.rb
+git add lib/
+man git-commit
+man git-add
+git --manual
+git --k
+git --help
+git k
+-- help
+ruby lib/class3/exercise3.rb
+ruby lib/class3/exercise2.rb
+ruby lib/class3/
+ruby lib/class3/test.rb
+ruby test.rb
+bin/rubocop lib/class3/
+git commit -m 'exercise 3 exercises 1-4'
+git add lib/class3/
+bin/rspec spec/class3/exercise4_spec.rb
+bin/rubocop lib/class3/exercise4.rb
+ruby lib/class3/exercise4.rb
+subl lib/class3/exercise4.rb
+subl lib/class3/exercise3.rb
+bin/rubo
+subl lib/class3/exercise2.rb
+git commit -m 'exercise 3.1'
+lib/class3/
+git status lib/class3/exercise1.rb
+ls .config/fish/fish_history
+ls .config/fish/fish_history
+bin/rspec spec/class2/exercise7_spec.rb
+git commit -m 'submit ex 4 again'
+bin/rspec spec/class2/
+ruby lib/class2/exercise4.rb
+ruby lib/class2/exercise7.rb
+git commit -m 'submit ex 7'
+git diff master upstream/master
+git remote -v
+subl
+bin/rspec spec/class2/exercise7_spec.ruby
+git commit -m 'comitting ex 5 & 6'
+ruby lib/class2/exercise6.rb
+ruby lib/class2/exercise5.rb
+git commit -m 'practicing add commit cycle'
+git add lib/class2/exercise2.rb
+class4/
+class2/
+lib/
+]la
+cd lkj
+subl .
+subl lib/class2/exercise4.rb
+ruby lib/class2/exercise3.rb
+subl lib/class2/exercise3.rb
+k
+bin/rspec spec/class2/exercise4_spec.rb
+bin/rspec spec/class2/exercise3_spec.rb
+ruby lib/class2/exercise2.rb
+bin/rspec spec/class2/exercise2_spec.rb
+bin/rspec spec/class2/exercise1_spec.rb
+git commit -m 'Submit class1 assignment'
+git commit -m
+subl lib/class2/exercise1.rb
+git add lib/class2/exercise1.rb
+subl lib/class2/exercise7.rb
+bin/rspec spec/class2/exercise5_spec.rb
+subl lib/class2/exercise6.rb
+subl lib/class2/exercise5.rb
+ruby lib/class2/exercise1.rb
+lib/class1/exercise1.rb
+lib/class2/exercise1.rb
+bin/rspec spec/class2/exerci1_spec.rb
+subl inti
+bin/rspec/class2/exerci1_spec.rb
+spec/class2/exercise1_spec.rb
+subl lib/class2/
+git reset --head HARD
+ls projects
+subl
+exercise1_spec.rb
+cd class2/exercise1_spec.rb
+cd spec
+spec
+list
+spec/class2/exercise1
+ruby calc.rb
+cd projects
+subl calc.rb
+subl ch2
+subl init
+git remote
+cd projects/sea-c21-ruby/
+bin/rspec spec/class2/exercis4_spec.rb
+git ci -m 'Solved homework #1'
+git df
+cd Projects/s
+git reset --hard HEAD
+rm -rf vendor
+rm - rf vendor
+rm 0 rf vendor/
+bundle binstubs rubocop --force
+bundle binstubs rspec-core --force
+bundle binstubs rspec-core
+gem install bundler
+bin/rubocop
+bin
+git co master
+cd se
+git-shell HTC_DEVICE_MEDIA/
+git-shell
+git-cvsserver
+cd Pictures/
+cd pro
+cd ~/joe
+cd ~joe
+cd joe
+cd john
+mkdir -p frank/joe/alex/john
+cd things
+mkdir stuff/things
+mkdir stuff
+mkdir ~/stuff/things/frank/joe/alex/john
+mkdir stuff/things/frank/joe/alex/john
+cd stuff/things/frank/joe/alex/john/
+git remote add upstream https://github.com/codefellows/sea-c21-ruby.git
+git push origin master
+git add lib/class1/osx.txt
+lib/class1/osx.txt
+cat lib/class1/osx.txt
+cat lib/class1/test_osx.sh
+lib/class1/test_osx.sh > lib/class1/osx.txt
+git clone https://github.com/kayeon/sea-c21-ruby.git
+cd ~/Projects/
+mkdir ~/Projects
+git config --global user.name 'Katie Kim'
+git config --global user.email 'YOUR EMAIL ADDRESS'
+git config --global user.name 'YOUR FULL NAME'
+rm ~/Desktop/test.rb
+subl ~/desktop/test.rb
+ruby ~/Desktop/test.rb
+ruby ~
+curl -fsSL http://git.io/G6oJ4g > ~/.irbrc
+brew install ruby
+echo $Path
+e
+echo $EDITOR
+set -gx EDITOR 'subl -w'
+# Sublime Text
+~/.config/
+~/.con
+curl -fsSL http://git.io/ykpkfQ > ~/.config/fish/functions/fish_prompt.fish
+mkdir ~/.config/fish/functions
+chsh -s /usr/local/bin/fish
+brew help
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+ruby-v
+https://developer.apple.com/downloads
+sudo xcode-select -switch /Developer
+which git
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+ruby -e '$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)'
+ruby -e '$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)
+ls -G
+ls -g
+rmdir stuff
+rmdir things
+rmdir frank
+rmdir joe
+rmdir alex
+cd alex
+cd joe/alex/john
+rmdir john
+cd temp/stuff/things/frank/joe/alex/john
+cd stuff/things/frank/joe/alex/john
+..
+ls -1R
+ls - 1R
+ls -1r
+cd ../../../
+cd frank
+mkdir -p temp/images/res/"i love poe"
+mkdir -p images/res/"i love poe"
+mkdir documents
+cd downloads
+mkdir temp/downloads/documents
+cd temp/downloads
+mkdir -p temp/downloads
+mkdir temp/downloads
+cd ../../../../
+cd things/frank/joe
+cd temp/stuff/things/frank/joe
+cd ../../../../../../../
+ cd ../../..
+cd..
+cd joe/
+mkdir temp
+cd ~
+pmd
+mkdir -p states/birds/"times are here"
+mkdir states/birds/"times are"
+mkdir states/birds/"species with blue feathers in their hair"
+mkdir states/"fun times"
+mkdir states/birds/"species with blue feathers"
+mkdir states
+mkdir -p temp/images/res/low/jpg
+mkdir -p temp/images/res/high
+mkdir temp/images
+mkdir -p temp/stuff/things/frank/joe/alex/john
+mkdir temp/stuff/things
+mkdir temp/stuff
+/zedshaw
+/users
+//users
+/
+python helloworld.py
+cd Desktop/
+ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+subl hellworld.py
+sublime helloworld.py
+echo 'hello////'
+echo 'world'
+echo 'hello'
+echo 'hello world'
+hello
+/Volumes/nest.audubon.org/branding/files/logos/state/CO/Icon ; exit;
+mv .htaccess.txt .htaccess
+ls -al
+cd themeclass/
+killall Finder
+defaults write com.apple.finder AppleShowAllFiles FALSE
+defaults write com.apple.finder AppleShowAllFiles TRUE
+cd sites
+vim settings.php
+chmod 775 settings.php
+cd themeclass/sites/default/
+cd Sites/
+cd ~/Desktop/
+ping cardinal.int.audubon.org
+ping cardinal
+ping pelican
+PING GOOGLE.COM
+ping 4.2.2.2
+ifconfig
+pico hosts
+cd /etc
+sudo su
+ls -A
+cd Resources/
+cd Contents/
+cd TruePianos.app/
+cd Applications/
+cd Library/
+cd System/
+cd private/
+cd usr/
+cd User
+cd MacOS/
+cd Info.plist
+cd PkgInfo
+cd TruePianos
+mv Live /Live\ 8.1\ OS\ X/Live.app/Contents/MacOS/
+rm Live
+cd MacOS
+cd Live.app
+cd Live\ 8.1\ OS\ X/
+cd contents
+cd .DS_Store
+cd Macintosh\ HD
+cd Volumes/
+pico
+ping websrv2
+ping websrv
+ping webserv2.int.audubon.org
+ping webserv1.int.audubon.org
+ping webserv.int.audubon.org
+ping webserv
+ping nest
+ping intranet
+ping google.com
+ping flamingo
+ipconfig
+ls -rtl
+ls -rt
+ls -t | less
+ls -tZ
+ls -t
+ls
+pwd
+cd ~
+history > moving_around.txt
+cd
+~
+man less
+history | less
+history | tail -r
+history
+cd /Users/
+ls ..
+ls ...
+cd ...
+cd net
+cd temp
+...
+ls ~
+cd /
+cd .
+cd
+cd ../..
+cd bin
+cd usr
+cd user
+cd temp/stuff
+../
+cd ..
+cd stuff
+cd ranch_orm
+cd myProjects
+farmers
+ls -l
+cd myProjects/
+man ls
+man -d
+ls man
+ls -lrt
+ls -r
+ls -lt
+curl -fsSL http://git.io/7UHtNA | sh
+curl -fsSL http://git.io/QxUaOQ | sh
+git config user.email
+git config user.name
+git config --global user.email 'kayeon@gmail.com'
+git config --global user.email 'katie kim'
+git --version
+brew install git
+brew unlink git
+brew inlink git
+echo $PATH
+subl /etc/paths
+echo $path
+echo $EDITOR
+echo
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+subl .
+brew info fish
+brew in
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+brew update
+uname
+clear
+K
+brew install node
+node
+jsc
+irb
+java
+1 + 2
+cd~
+rake routes
+rails version
+rake -T
+rake db:migrate
+rails generate scaffold topic title:string description:text
+rails server
+git status
+git commit -m "Added all the things"
+git add .
+ls -a
+git init
+cd suggestotron/
+rails new suggestotron
+cd apps
+mkdir apps
+mkdir railsbridge/
+ruby farmers.rb
+subl farmers.rb
+cat farmers.rb
+cd myProjects/farmers/
+ruby ./farmers.rb
+mv farmers.rb myProjects/farmers/
+cd farmers
+cd farmer
+mv farmers.csv farmers
+mkdir farmers
+mv ADA farmers.csv
+mv farmers-markets.csv ADA
+mv ~/Downloads/farmers-markets-0d51def2d3decd53415dc3b91b0253e8.csv farmers-markets.csv
+mv ~/Documents/Although\ I\ was\ under\ the\ impression\ that\ voice\ of\ the\ poem\ was\ the\ poet\ Eric\ Gansworth\ or\ a\ man\ whether\ it’s\ a\ son.docx
+random [23]
+random
+random [SEED]
+man
+gem install rails
+sqlite3 --version
+sqlite3 -v
+ruby -v
+ruby --version
+ruby - v
+ruby poe.rb
+vim poe.rb
+git pull
+cd poe-game/
+subl plx.rb
+cd parallax
+subl sprite.rb
+cd sprite/
+ruby sprite.rb
+subl hello_world.rb
+ruby hello_world.rb
+cd hello_world/
+cd writing_games_2014/
+git clone git@github.com:blowmage/writing_games_2014.git
+jk
+vim ~/.vimrc
+poe-game/
+git clone git@github.com:blowmage/rubyhop.git
+git clone git@github.com:bschlenk/poe-game.git
+cd kayeon/myProjects/
+cd myprojects
+../../
+rm -rf poe-game/
+rm-rf poe-game/
+git git@github.com:bschlenk/poe-game.git
+subl rubyhop
+rubyhop.rb
+rubyhop
+git clone git@github.com:kayeon/poe-game.git
+myProjects/
+ruby Main.rb
+gem install gosu
+ruby main.rb
+brew install sdl2
+brew install libvorbis
+bundle exec rake db:migrate
+bundle install --path vendor/bundle
+git c 'improve the horses migrations and add the horse class'
+git ll
+git st
+touch lib/horse.rb
+ll
+la
+mkdir lib
+rm db/migrate/001_create_horses
+touch db/migrate/001_create_horses.rb
+touch db/migrate/001_create_horses
+tree
+brew install tree
+mkdir -p db/migrate
+mkdir db/migrate
+git c 'Add Rakefile'
+touch Rakefile
+git c 'initial commit'
+touch .gitignore
+cd bundle
+touch Gemfile
+cd ranch_orm/
+mkdir ranch_orm
+which sqlite3
+brew install sqlite
+df -h
+df
+du
+ruby looptest.rb
+ruby looptest
+subl looptest
+cd Projects/
+say "i love poe"
+cd .ssh
+python
+which python
+man history
+rm historyList
+subl historylist
+history > historyList
+history | grep class3
+history | grep rubocop
+ruby Desktop/brian.rb
+Desktop/brian.rb
+subl Desktop/brian.rb
+which ruby
+chmod +x Desktop/brian.rb
+cd ~/pwd
+ruby brian.rb
+bash --login
+bash --lo
+gem list
+rvm -v
+exit
+ruby
+say -v Deranged Can we eat warm pizza
+say -v '?'
+say -v Ralph Poe is a mellow dog. He likes cats named moe.
+ls -la
+vim ~/.bashrc
+ls -la ~
+cat ~/.profile
+python helloworld.py
+ls /bin
+bash
+man say
+say -v
+say -v ?
+say -v '?
+'
+sya -v ?
+say '?'
+say ?
+say -?
+say let\'s eat a pizza
+say keyeon kim has a dog named poe
+say keyeon kim
+who
+bin/rubocop lib/class7/
+bin/rspec lib/class7/
+git push
+git commit -m 'submitted class 7.5  exercises'
+bin/rubocop lib/class7/exercise5.rb
+bin/rspec lib/class7/exercise5.rb
+bin/rspec lib/class7/exercise5-original.rb
+bin/rubocop lib/class7/exercise5-original.rb
+git pull upstream master
+ruby lib/class7/exercise5-original.rb
+ruby lib/class7/exercise5-test.rb
+bin/rubocop lib/class7/exercise5-test.rb
+ruby lib/class7/exercise5.rb
+ruby lib/class7/exercise1.rb
+bin/rspec lib/class7/exercise1.rb
+bin/rubocop lib/class7/exercise1.rb
+bin/rspec lib/class7/
+bin/rspec
+sea-c21-ruby/
+Projects/
+git commit -m 'submitted class 6.6  exercises'
+bin/rspec lib/class6/exercise6.rb
+bin/rubocop lib/class6/exercise6.rb
+git commit -m 'submitted class 8 exercises'
+bin/rspec lib/class6/
+bin/rubocop lib/class6/
+bin/rubocop lib/class7/
+bin/rspec lib/class8/
+bin/rubocop lib/class8/
+ruby scratchpad.rb
+ruby lib/class8/exercise7.rb
+ruby lib/class8/exercise6.rb 5 boing
+ruby lib/class8/exercise6.rb
+ruby lib/class8/exercise5.rb 24
+ruby lib/class8/exercise5.rb 12
+ruby lib/class8/exercise5.rb 3
+ruby lib/class8/exercise4.rb
+ruby lib/class8/exercise3.rb
+ruby lib/class8/exercise2.rb
+bin/rspec lib/class8/exercise1.rb
+bin/rubocop lib/class8/exercise1.rb
+ruby lib/class8/exercise1.rb
+ruby scratch.rb
+bin/rubocop lib/class7
+bin/rspec lib/class7
+projects/
+ruby lib/class7/exercise2.rb
+ruby lib/class5/exercise2.rb
+git commit -m 'submitted class 7 classes'
+bin/rubocop lib/class7/exercise4.rb
+bin/rubocop lib/class7/exercise3.rb
+bin/rubocop lib/class7/exercise2.rb
+ruby lib/class5/exercise6.rb
+sea
+bin/rubocop lib/class
+bin/rspec lib/class6
+bin/rubocop lib/class6
+bin/rubocop lib/class5
+bin/rspec lib/class5
+ruby lib/class5/exercise5.rb
+ruby lib/class5/exercise4.rb
+ruby lib/class5/exercise3.rb
+ruby lib/class5/exercise1.rb
+git commit -m 'fixed class 5 classes'
+bin/rubocop lib/class4
+bin/rubocop lib/class3
+bin/rubocop lib/class2
+bin/rubocop lib/class1
+bin/rspec lib/class7/exercise2.rb
+bin/rspec lib/class7/exercise4.rb
+ruby lib/class7/exercise4.rb
+bin/rubocop lib/class7/exercise3=4.rb
+ruby lib/class7/exercise3.rb
+bin/rspec lib/class7/exercise3.rb
+bin/rubocop lib/class5/
+bin/rubocop lib/clas5/
+git commit -m 'fixed class 4 exercies'
+bin/rspec lib/class4
+bin/rubocop lib/class4/
+bin/rubocop lib/class4/exercise5.rb
+bin/rubocop lib/class4/exercise4.rb
+bin/rspec spec/class4/exercise5_spec.rb
+bin/rspec spec/class4/exercise4_spec.rb
+ruby lib/class4/exercise4.rb
+bin/rspec spec/class4/exercise3_spec.rb
+bin/rubocop lib/class4/exercise3.rb
+bin/rspec spec/class4/exercise2_spec.rb
+bin/rubocop lib/class4/exercise2.rb
+git commit -m 'fixed class 3 exercies'
+bin/rubocop lib/class4/exercise1.rb
+bin/rspec spec/class4/exercise1_spec.rb
+ruby lib/class4/exercise1.rb
+bin/rspec spec/class4/exercise5_spec1.rb
+bin/rspec spec/class3
+bin/rspec spec/class3/exercise3_spec.rb
+bin/rubocop lib/class3/exercise3.rb
+bin/rubocop
+bin/rspec spec/class3/exercise2_spec.rb
+bin/rubocop lib/class3/exercise2.rb
+bin/rspec spec/class3/exercise1_spec.rb
+bin/rubocop lib/class3/exercise1.rb
+ruby lib/class3/exercise1.rb
+git commit -m 'fix class 2 exercies'
+bin/rspec spec/class2
+bin/rubocop lib/class2/exercise7.rb
+bin/rubocop lib/class2/exercise6.rb
+bin/rubocop lib/class2/exercise5.rb
+bin/rubocop lib/class2/exercise4.rb
+bin/
+bin/rspec spec/class7/exercise2_spec.rb
+˚
+bin/rspec spec/class7/exercise1_spec.rb
+ruby lib/class6/exercise7.rb url
+ruby lib/class6/exercise7.rb age
+ruby lib/class6/exercise3.rb
+ruby lib/class6/exercise7.rb name
+bin/rubocop lib/class6/exercise7.rb
+bin/rspec spec/class6/exercise7_spec.rb
+ruby lib/class6/exercise4.rb
+git commit -m 'homework 6.6-7'
+ruby lib/class6/exercise7.rb pet
+ruby lib/class6/exercise7.rb
+bin/rspec spec/class6/exercise6_spec.rb
+ruby lib/class6/exercise6.rb parents 'Paul Mccartney'
+ruby lib/class6/exercise6.rb friend 'Paul Mccartney'
+ruby lib/class6/exercise6.rb name 'John Lennon'
+ruby lib/class6/exercise6.rb name 'stephanie!'
+ruby lib/class6/exercise6.rb name 'Katie kim'
+ruby lib/class6/exercise6.rb name 'Katie'
+ruby lib/class6/exercise6.rb name 'Katie Kim'
+ruby lib/class6/exercise6.rb name Katie Kim
+ruby lib/class6/exercise6.rb name John McCarthy
+ruby lib/class6/exercise5.rb name John McCarthy
+ruby lib/class6/exercise5.rb name applebee
+ruby lib/class6/exercise5.rb name
+ruby lib/class6/exercise6.rb friend 'paul mccartney'
+ruby lib/class6/exercise6.rb parent 'paul mccartney'
+ruby lib/class6/exercise6.rb age 'paul mccartney'
+ruby lib/class6/exercise6.rb name 'paul mccartney'
+ruby lib/class6/exercise6.rb friend  'paul mccartney'
+ruby lib/class6/exercise6.rb name paul mccartney
+ruby lib/class6/exercise6.rb name
+git commit -m 'homework 6.1-5'
+bin/rspec spec/class6/exercise5_spec.rb
+bin/rubocop lib/class6/exercise5.rb
+bin/rspec spec/class6/exercise4_spec.rb
+bin/rubocop lib/class6/exercise4.rb
+ruby lib/class6/exercise4.rb name
+bin/rubocop lib/class6/exercise3.rb
+bin/rspec spec/class6/exercise3_spec.rb
+ruby lib/class6/exercise3.rb name
+bin/rubocop lib/class6/exercise2.rb
+bin/rspec spec/class6/exercise2_spec.rb
+ruby lib/class6/exercise2.rb name
+bin/rspec spec/class6/exercise1_spec.rb
+bin/rubocop lib/class6/exercise1.rb
+ruby lib/class6/exercise1.rb name
+ruby lib/class6/exercise5.rb
+ruby lib/class6/exercise5.rb pet
+ruby lib/class6/exercise5.rb age
+ruby lib/class6/exercise5.rb names
+ruby lib/class6/exercise5.rb coco
+ruby lib/class6/exercise5.rb pets
+ruby lib/class6/exercise5.rb
+proj
+ruby lib/class6/exercise4.rb
+ruby lib/class6/exercise3.rb
+ruby lib/class6/exercise2.rb
+ruby lib/class6/exercise1.rb
+person = ['john', 40]
+git commit -m 'homework 5.1-5'
+git commit -m 'commit homework  4.4 + 4.5'
+bin/rubocop lib/class5/exercise5.rb
+bin/rspec spec/class5/exercise5_spec.rb
+ruby lib/class5/exercise5.rb 5
+ruby lib/class5/exercise5.rb
+bin/rspec spec/class5/exercise4_spec.rb
+bin/rubocop lib/class5/exercise4.rb
+ruby lib/class5/exercise4.rb
+ruby lib/class5/exercise3.rb
+bin/rubocop lib/class5/exercise3.rb
+bin/rspec spec/class5/exercise3_spec.rb
+bin/rspec spec/class5/exercise2_spec.rb
+bin/rubocop lib/class5/exercise2.rb
+ruby lib/class5/exercise2.rb
+bin/rspec spec/class5/exercise1_spec.rb
+bin/rubocop lib/class5/exercise1.rb
+ruby lib/class5/exercise1.rb
+bin/rubocop lib/class5/KimEx.rb
+ruby lib/class5/KimEx.rb
+lib/class5/exercise3.rb
+Projects/sea-c21-ruby/
+ruby lib/class5/exercise5.rb 2
+ruby lib/class5/exercise5.rb 1
+ruby lib/class5/exercise5.rb 0
+ruby lib/class5/exercise5.rb 3
+ruby class5/exercise2.rb
+cd lib
+cd ../../
+cd images/fakeCardReader/
+cd ../
+cd pictureInbox/
+cd states/
+cd sea-c21-ruby/
+cd images
+endp records.to_yamlirb
+def records
+require 'yaml'
+ruby lib/class5/exercise1.rb 578
+lib/class5/exercise2.rb
+lib/class5/exercise1.rb
+lib/class4/exercise5.rb
+lib/class4/exercise4.rb
+lib/class4/exercies5.rb
+which ruby
+/usr/bin/env ruby
+hirb
+git la
+git log
+git ll > temp2
+git la > temp
+git help
+git -help
+git -g
+git -a
+git bin/rubocop
+git add
+ruby lib/class4/exercise5.rb 578
+ruby lib/class4/exercise5.rb 889
+ruby lib/class4/exercise5.rb 999
+ruby lib/class4/exercise4.rb 999
+ruby lib/class4/exercise4.rb 1000
+ruby lib/class4/exercise4.rb 153
+ruby lib/class4/exercise4.rb 100
+ruby lib/class4/exercise4.rb 300
+ruby lib/class4/exercise4.rb 30000
+ruby lib/class4/exercise4.rb 135
+git commit -m 'commit class 4/exercises 1 - 3'
+git add lib/class4/exercise3.rb
+git add lib/class4/exercise2.rb
+git add lib/class4/exercise1.rb
+git add lib/class3/exercise3.rb
+git add lib/class3/exercise2.rb
+git add lib/class3/exercise1.rb
+ruby lib/class4/exercise3.rb
+ruby lib/class4/exercise2.rb
+git commit -m 'commit stuff'
+git add lib/class3/exercise4.rb
+git add lib/scratch.rb
+git add scratch.rb
+git add lib/
+man git-commit
+man git-add
+git --manual
+git --k
+git --help
+git k
+-- help
+ruby lib/class3/exercise3.rb
+ruby lib/class3/exercise2.rb
+ruby lib/class3/
+ruby lib/class3/test.rb
+ruby test.rb
+bin/rubocop lib/class3/
+git commit -m 'exercise 3 exercises 1-4'
+git add lib/class3/
+bin/rspec spec/class3/exercise4_spec.rb
+bin/rubocop lib/class3/exercise4.rb
+ruby lib/class3/exercise4.rb
+subl lib/class3/exercise4.rb
+subl lib/class3/exercise3.rb
+bin/rubo
+subl lib/class3/exercise2.rb
+git commit -m 'exercise 3.1'
+lib/class3/
+git status lib/class3/exercise1.rb
+ls .config/fish/fish_history
+ls .config/fish/fish_history
+bin/rspec spec/class2/exercise7_spec.rb
+git commit -m 'submit ex 4 again'
+bin/rspec spec/class2/
+ruby lib/class2/exercise4.rb
+ruby lib/class2/exercise7.rb
+git commit -m 'submit ex 7'
+git diff master upstream/master
+git remote -v
+subl
+bin/rspec spec/class2/exercise7_spec.ruby
+git commit -m 'comitting ex 5 & 6'
+ruby lib/class2/exercise6.rb
+ruby lib/class2/exercise5.rb
+git commit -m 'practicing add commit cycle'
+git add lib/class2/exercise2.rb
+class4/
+class2/
+lib/
+]la
+cd lkj
+subl .
+subl lib/class2/exercise4.rb
+ruby lib/class2/exercise3.rb
+subl lib/class2/exercise3.rb
+k
+bin/rspec spec/class2/exercise4_spec.rb
+bin/rspec spec/class2/exercise3_spec.rb
+ruby lib/class2/exercise2.rb
+bin/rspec spec/class2/exercise2_spec.rb
+bin/rspec spec/class2/exercise1_spec.rb
+git commit -m 'Submit class1 assignment'
+git commit -m
+subl lib/class2/exercise1.rb
+git add lib/class2/exercise1.rb
+subl lib/class2/exercise7.rb
+bin/rspec spec/class2/exercise5_spec.rb
+subl lib/class2/exercise6.rb
+subl lib/class2/exercise5.rb
+ruby lib/class2/exercise1.rb
+lib/class1/exercise1.rb
+lib/class2/exercise1.rb
+bin/rspec spec/class2/exerci1_spec.rb
+subl inti
+bin/rspec/class2/exerci1_spec.rb
+spec/class2/exercise1_spec.rb
+subl lib/class2/
+git reset --head HARD
+ls projects
+subl
+exercise1_spec.rb
+cd class2/exercise1_spec.rb
+cd spec
+spec
+list
+spec/class2/exercise1
+ruby calc.rb
+cd projects
+subl calc.rb
+subl ch2
+subl init
+git remote
+cd projects/sea-c21-ruby/
+bin/rspec spec/class2/exercis4_spec.rb
+git ci -m 'Solved homework #1'
+git df
+cd Projects/s
+git reset --hard HEAD
+rm -rf vendor
+rm - rf vendor
+rm 0 rf vendor/
+bundle binstubs rubocop --force
+bundle binstubs rspec-core --force
+bundle binstubs rspec-core
+gem install bundler
+bin/rubocop
+bin
+git co master
+cd se
+git-shell HTC_DEVICE_MEDIA/
+git-shell
+git-cvsserver
+cd Pictures/
+cd pro
+cd ~/joe
+cd ~joe
+cd joe
+cd john
+mkdir -p frank/joe/alex/john
+cd things
+mkdir stuff/things
+mkdir stuff
+mkdir ~/stuff/things/frank/joe/alex/john
+mkdir stuff/things/frank/joe/alex/john
+cd stuff/things/frank/joe/alex/john/
+git remote add upstream https://github.com/codefellows/sea-c21-ruby.git
+git push origin master
+git add lib/class1/osx.txt
+lib/class1/osx.txt
+cat lib/class1/osx.txt
+cat lib/class1/test_osx.sh
+lib/class1/test_osx.sh > lib/class1/osx.txt
+git clone https://github.com/kayeon/sea-c21-ruby.git
+cd ~/Projects/
+mkdir ~/Projects
+git config --global user.name 'Katie Kim'
+git config --global user.email 'YOUR EMAIL ADDRESS'
+git config --global user.name 'YOUR FULL NAME'
+rm ~/Desktop/test.rb
+subl ~/desktop/test.rb
+ruby ~/Desktop/test.rb
+ruby ~
+curl -fsSL http://git.io/G6oJ4g > ~/.irbrc
+brew install ruby
+echo $Path
+e
+echo $EDITOR
+set -gx EDITOR 'subl -w'
+# Sublime Text
+~/.config/
+~/.con
+curl -fsSL http://git.io/ykpkfQ > ~/.config/fish/functions/fish_prompt.fish
+mkdir ~/.config/fish/functions
+chsh -s /usr/local/bin/fish
+brew help
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+ruby-v
+https://developer.apple.com/downloads
+sudo xcode-select -switch /Developer
+which git
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+ruby -e '$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)'
+ruby -e '$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)
+ls -G
+ls -g
+rmdir stuff
+rmdir things
+rmdir frank
+rmdir joe
+rmdir alex
+cd alex
+cd joe/alex/john
+rmdir john
+cd temp/stuff/things/frank/joe/alex/john
+cd stuff/things/frank/joe/alex/john
+..
+ls -1R
+ls - 1R
+ls -1r
+cd ../../../
+cd frank
+mkdir -p temp/images/res/"i love poe"
+mkdir -p images/res/"i love poe"
+mkdir documents
+cd downloads
+mkdir temp/downloads/documents
+cd temp/downloads
+mkdir -p temp/downloads
+mkdir temp/downloads
+cd ../../../../
+cd things/frank/joe
+cd temp/stuff/things/frank/joe
+cd ../../../../../../../
+ cd ../../..
+cd..
+cd joe/
+mkdir temp
+cd ~
+pmd
+mkdir -p states/birds/"times are here"
+mkdir states/birds/"times are"
+mkdir states/birds/"species with blue feathers in their hair"
+mkdir states/"fun times"
+mkdir states/birds/"species with blue feathers"
+mkdir states
+mkdir -p temp/images/res/low/jpg
+mkdir -p temp/images/res/high
+mkdir temp/images
+mkdir -p temp/stuff/things/frank/joe/alex/john
+mkdir temp/stuff/things
+mkdir temp/stuff
+/zedshaw
+/users
+//users
+/
+python helloworld.py
+cd Desktop/
+ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+subl hellworld.py
+sublime helloworld.py
+echo 'hello////'
+echo 'world'
+echo 'hello'
+echo 'hello world'
+hello
+/Volumes/nest.audubon.org/branding/files/logos/state/CO/Icon ; exit;
+mv .htaccess.txt .htaccess
+ls -al
+cd themeclass/
+killall Finder
+defaults write com.apple.finder AppleShowAllFiles FALSE
+defaults write com.apple.finder AppleShowAllFiles TRUE
+cd sites
+vim settings.php
+chmod 775 settings.php
+cd themeclass/sites/default/
+cd Sites/
+cd ~/Desktop/
+ping cardinal.int.audubon.org
+ping cardinal
+ping pelican
+PING GOOGLE.COM
+ping 4.2.2.2
+ifconfig
+pico hosts
+cd /etc
+sudo su
+ls -A
+cd Resources/
+cd Contents/
+cd TruePianos.app/
+cd Applications/
+cd Library/
+cd System/
+cd private/
+cd usr/
+cd User
+cd MacOS/
+cd Info.plist
+cd PkgInfo
+cd TruePianos
+mv Live /Live\ 8.1\ OS\ X/Live.app/Contents/MacOS/
+rm Live
+cd MacOS
+cd Live.app
+cd Live\ 8.1\ OS\ X/
+cd contents
+cd .DS_Store
+cd Macintosh\ HD
+cd Volumes/
+pico
+ping websrv2
+ping websrv
+ping webserv2.int.audubon.org
+ping webserv1.int.audubon.org
+ping webserv.int.audubon.org
+ping webserv
+ping nest
+ping intranet
+ping google.com
+ping flamingo
+ipconfig
