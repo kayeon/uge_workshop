@@ -1,0 +1,9 @@
+# we created a file called git_notes using touch
+# added the file to the stage area
+# commit the file to the git-notes branch
+#
+# learned how to init a new repo
+# learned about the Basic Git Workflow
+#
+# learned git mv about how to rename a file
+#
